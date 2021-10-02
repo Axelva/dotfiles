@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = axel.vonarx@gmail.com
+	name = Axel vA
